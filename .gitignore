@@ -1,0 +1,12 @@
+.gitigno
+#Comments
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.lod
+log/*.log.[0-9]
+assests/photoshop/
+assess/videos/
+!assests/videos/tour_*.mp4
+
